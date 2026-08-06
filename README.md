@@ -1,10 +1,13 @@
 # Hi there👋
 
-I’m a Java developer who genuinely enjoys building scalable and maintainable systems. Alongside Java, I’m deeply curious about AI and DevSecOps, always exploring how intelligent automation and secure practices can improve modern applications. 
-Currently, I work on Java Spring Boot microservices architectures deployed on Kubernetes, where I enjoy designing resilient services, learning new tools, and continuously sharpening my engineering skills.
+I'm a backend engineer who enjoys building scalable, maintainable systems — primarily with Java and Spring Boot, deployed on Kubernetes. I like designing resilient services, picking up new tools, and continuously sharpening my engineering fundamentals.
 
-Beyond backend systems, I’m actively exploring ML and DevSecOps to combine intelligence with strong engineering fundamentals.
+I'm also curious about AI and DevSecOps, and how intelligent automation and secure practices can strengthen modern applications.
+
+## My Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,kubernetes,docker,grafana,prometheus,postgresql,github,git,rabbitmq,redis,postman)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=go,python,fastapi,mongodb,react&perline=8)](https://skillicons.dev)
 
 ## Let's Connect at:
-LinkedIn - [SiddharthAJMore](https://linkedin.com/in/siddharthajmore)
+LinkedIn - [SiddharthAJMore](https://linkedin.com/in/siddharthajmore)  
 HashNode - [SiddharthAJMore](https://siddharthajmore.hashnode.dev)
